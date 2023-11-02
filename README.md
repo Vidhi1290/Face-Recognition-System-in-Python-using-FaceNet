@@ -34,17 +34,12 @@ Our dataset is a collection of frames from the beloved sitcom show, Friends. Cha
 - **requirements.txt:** The potion recipe listing all the magical ingredients. Use `pip install -r requirements.txt` to concoct your magic potion!
 
 ## ⚡ How to Use
+
 1. **Clone the Repository:**
    
 ```bash
 git clone https://github.com/your-username/image-classification-from-video.git
-
-
-## How to Use
-1. **Clone the Repository:**
-   
-```bash
-git clone https://github.com/your-username/image-classification-from-video.git
+```
 
 2. **Install Dependencies:**
 
@@ -52,7 +47,7 @@ git clone https://github.com/your-username/image-classification-from-video.git
 pip install -r requirements.txt
 ```
 
-3. Explore the Jupyter Notebooks: Dive into the src folder and explore the modular Jupyter notebooks for detailed insights.
+3. **Explore the Jupyter Notebooks: Dive into the src folder and explore the modular Jupyter notebooks for detailed insights.**
 
 ## Contact Information
 For questions, collaborations, or further information, feel free to reach out:
